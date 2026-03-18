@@ -30,9 +30,7 @@
 
 # 📌 Featured Projects
 
-- 🔗 BeeWatts — Simulador de energia solar  
-- 🔗 Sistema de Autoatendimento — Gestão de pedidos  
-- 🔗 Automação WhatsApp — Envio de mensagens  
+- 🔗 BeeWatts — Simulador de energia solar
 
 ---
 
